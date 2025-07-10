@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @kangkc09
 👀 I’m interested in Game Programming  
 🌱 I’m currently learning C++ , Unity, Unreal Engine  
-🔭 I'm a trainee in the **10th cohort of KRAFTON Jungle**,  
+🔭 I'm a trainee in the **10th cohort of KRAFTON Jungle**,
 a hands-on software engineering bootcamp focused on algorithms, system programming, and backend development.
 
 <!---
