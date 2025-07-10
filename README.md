@@ -1,8 +1,9 @@
-## 👋 Hi, I’m @kangkc09
-👀 I’m interested in Game Programming  
-🌱 I’m currently learning C++ , Unity, Unreal Engine  
-🔭 I'm a trainee in the **10th cohort of KRAFTON Jungle**,
+## 👋 Hi, I’m @kkc1383
+ - 👀 I’m interested in Game Programming  
+ - 🌱 I’m currently learning C++ , Unity, Unreal Engine  
+ - 🔭 I'm a trainee in the **10th cohort of KRAFTON Jungle**,
 a hands-on software engineering bootcamp focused on algorithms, system programming, and backend development.
+- 📫 How to reach me: kangkc09@gmail.com
 
 <!---
 kangkc09/kangkc09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
