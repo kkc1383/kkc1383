@@ -30,7 +30,19 @@
 
 ### 🚀 Featured Projects
 
+#### 🎮 Game Development
+
+| Project | Description |
+|---------|-------------|
+| [Stack Guys](https://github.com/kkc1383/stack-guys) | Unity 기반 3D 플랫포머 멀티플레이어 게임 Unity Project |
+| [Stack Guys Web](https://github.com/kkc1383/stack-guys-web) | Stack Guys 인프라 웹 서버 |
+
+**🎬 발표 영상**
+
+[![발표영상](https://img.youtube.com/vi/Fh3Ibfskyzw/hqdefault.jpg)](https://youtu.be/Fh3Ibfskyzw)
+
 #### 🖥️ Operating System (PintOS)
+
 | Project | Description |
 |---------|-------------|
 | [Thread](https://github.com/kkc1383/Krafton_Jungle_10th_Pintos_Thread_WEEK09_Team05) | Alarm Clock, Priority Scheduling, MLFQS 구현 |
@@ -38,21 +50,24 @@
 | [Virtual Memory](https://github.com/kkc1383/Krafton_Jungle_Pintos_Virtual_Memory_WEEK12_13_Team12) | Page Table, Swap In/Out, Copy-on-Write |
 
 #### ⚙️ System Programming
+
 | Project | Description |
 |---------|-------------|
 | [Malloc Lab](https://github.com/kkc1383/Krafton_Jungle_10th_Malloc_Lab_WEEK07) | 동적 메모리 할당기 구현 (메모리 활용률 & 처리 속도 최적화) |
 | [Proxy Lab](https://github.com/kkc1383/Krafton_Jungle_10th_Web_Server_WEEK08) | HTTP/1.0 프록시 서버, 동시성 처리, 캐싱 메커니즘 |
 
 #### 🌲 Data Structures
+
 | Project | Description |
 |---------|-------------|
 | [Red-Black Tree](https://github.com/kkc1383/Krafton_Jungle_10th_RBTree_WEEK06) | RBTree 직접 구현 |
 | [Basic Structures](https://github.com/kkc1383/Krafton_Jungle_10th_DataStructure_WEEK05) | 연결 리스트, 스택, 큐, 이진 트리, BST |
 
-#### Web
+#### 🌐 Web
+
 | Project | Description |
 |---------|-------------|
-| [Web Game_WebSite Project](https://github.com/kkc1383/Krafton_Jungle_10th_WebPage_WEEK14) | Unity 프로젝트를 웹에 임베드 |
+| [Web Game Website Project](https://github.com/kkc1383/Krafton_Jungle_10th_WebPage_WEEK14) | Unity 프로젝트를 웹에 임베드 |
 | [Sleep Tracker](https://github.com/kkc1383/Krafton_Jungle_10th_Mini_Project_WEEK00) | Flask 기반 수면 기록 앱 (SSR, JWT 인증) |
 
 ---
@@ -77,8 +92,11 @@
 ---
 
 ### 📊 Problem Solving
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangkc09)](https://solved.ac/kangkc09/)
 
+---
 
 ### 📫 Contact
+
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kangkc09@gmail.com)
