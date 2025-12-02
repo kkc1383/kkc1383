@@ -1,29 +1,84 @@
-## 👋 Hi, I’m @kkc1383
- - 👀 I’m interested in Game Programming  
- - 🌱 I’m currently learning C++ , Unity, Unreal Engine  
- - 🔭 I'm a trainee in the **10th cohort of KRAFTON Jungle**,
-a hands-on software engineering bootcamp focused on algorithms, system programming, and backend development.
-- 📫 How to reach me: kangkc09@gmail.com
+## 👋 Hi, I'm @kkc1383
 
+🎮 **Game Programmer**를 꿈꾸는 시스템 프로그래밍 기반 개발자입니다.
 
+🌱 **KRAFTON Jungle 10기** 수료 - 알고리즘, 시스템 프로그래밍, 백엔드 개발 중심의 실전형 소프트웨어 엔지니어링 부트캠프
+
+---
+
+### 🔧 Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Game Development**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+
+**Web & Backend**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🖥️ Operating System (PintOS)
+| Project | Description |
+|---------|-------------|
+| [Thread](https://github.com/kkc1383/Krafton_Jungle_10th_Pintos_Thread_WEEK09_Team05) | Alarm Clock, Priority Scheduling, MLFQS 구현 |
+| [User Program](https://github.com/kkc1383/Krafton_Jungle_10th_Pintos_User_Program_WEEK10_11_Team11) | System Calls 13종, Memory Protection, 동적 FD 테이블 |
+| [Virtual Memory](https://github.com/kkc1383/Krafton_Jungle_Pintos_Virtual_Memory_WEEK12_13_Team12) | Page Table, Swap In/Out, Copy-on-Write |
+
+#### ⚙️ System Programming
+| Project | Description |
+|---------|-------------|
+| [Malloc Lab](https://github.com/kkc1383/Krafton_Jungle_10th_Malloc_WEEK06_Team03) | 동적 메모리 할당기 구현 (메모리 활용률 & 처리 속도 최적화) |
+| [Proxy Lab](https://github.com/kkc1383/Krafton_Jungle_10th_Proxy_WEEK07_Team03) | HTTP/1.0 프록시 서버, 동시성 처리, 캐싱 메커니즘 |
+
+#### 🌲 Data Structures
+| Project | Description |
+|---------|-------------|
+| [Red-Black Tree](https://github.com/kkc1383/Krafton_Jungle_10th_RBTree_WEEK05_Team03) | RBTree 직접 구현 |
+| [Basic Structures](https://github.com/kkc1383/Krafton_Jungle_10th_DataStructure_WEEK04_Team03) | 연결 리스트, 스택, 큐, 이진 트리, BST |
+
+#### 🎮 Game & Web
+| Project | Description |
+|---------|-------------|
+| [Unity WebGL Project](https://github.com/kkc1383/Krafton_Jungle_10th_Webprogramming_WEEK01_Team09) | Unity 프로젝트를 웹에 임베드 |
+| [Sleep Tracker](https://github.com/kkc1383/Krafton_Jungle_10th_Mini_Project_WEEK00) | Flask 기반 수면 기록 앱 (SSR, JWT 인증) |
+
+---
+
+### 📚 Currently Learning
+
+#### 🤖 AI & LLM
+- **LLM (Large Language Model)** - 대규모 언어 모델의 원리와 활용
+- **RAG (Retrieval-Augmented Generation)** - 벡터 DB 기반 검색 증강 생성 파이프라인 구축
+- **Fine-Tuning** - LoRA/QLoRA를 활용한 도메인 특화 모델 학습
+- **AI Agent** - LLM 기반 자율 에이전트 설계 및 도구 활용 패턴
+
+#### 🎨 Graphics & Engine
+- **Computer Graphics** - 렌더링 파이프라인, 셰이더 프로그래밍, 3D 수학
+- **Unity & Unreal Engine** - 게임 엔진 심화 학습 및 최적화 기법
+
+#### 🖥️ Game Server & Network
+- **Game Server (C++)** - 고성능 게임 서버 아키텍처 설계 및 구현
+- **Socket Programming** - TCP/UDP 기반 네트워크 통신, 비동기 I/O
+- **Multithread Programming** - 동시성 제어, Lock-free 자료구조, 스레드 풀 설계
+
+---
+
+### 📊 Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangkc09)](https://solved.ac/kangkc09/)
-<!---
-kangkc09/kangkc09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
-<!--
-**kkc1383/kkc1383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kangkc09@gmail.com)
