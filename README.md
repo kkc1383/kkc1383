@@ -37,10 +37,6 @@
 | [Stack Guys](https://github.com/kkc1383/stack-guys) | Unity 기반 3D 플랫포머 멀티플레이어 게임 Unity Project |
 | [Stack Guys Web](https://github.com/kkc1383/stack-guys-web) | Stack Guys 인프라 웹 서버 |
 
-**🎬 발표 영상**
-
-[![발표영상](https://img.youtube.com/vi/Fh3Ibfskyzw/hqdefault.jpg)](https://youtu.be/Fh3Ibfskyzw)
-
 #### 🖥️ Operating System (PintOS)
 
 | Project | Description |
