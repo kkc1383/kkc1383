@@ -40,19 +40,19 @@
 #### ⚙️ System Programming
 | Project | Description |
 |---------|-------------|
-| [Malloc Lab](https://github.com/kkc1383/Krafton_Jungle_10th_Malloc_WEEK06_Team03) | 동적 메모리 할당기 구현 (메모리 활용률 & 처리 속도 최적화) |
-| [Proxy Lab](https://github.com/kkc1383/Krafton_Jungle_10th_Proxy_WEEK07_Team03) | HTTP/1.0 프록시 서버, 동시성 처리, 캐싱 메커니즘 |
+| [Malloc Lab](https://github.com/kkc1383/Krafton_Jungle_10th_Malloc_Lab_WEEK07) | 동적 메모리 할당기 구현 (메모리 활용률 & 처리 속도 최적화) |
+| [Proxy Lab](https://github.com/kkc1383/Krafton_Jungle_10th_Web_Server_WEEK08) | HTTP/1.0 프록시 서버, 동시성 처리, 캐싱 메커니즘 |
 
 #### 🌲 Data Structures
 | Project | Description |
 |---------|-------------|
-| [Red-Black Tree](https://github.com/kkc1383/Krafton_Jungle_10th_RBTree_WEEK05_Team03) | RBTree 직접 구현 |
-| [Basic Structures](https://github.com/kkc1383/Krafton_Jungle_10th_DataStructure_WEEK04_Team03) | 연결 리스트, 스택, 큐, 이진 트리, BST |
+| [Red-Black Tree](https://github.com/kkc1383/Krafton_Jungle_10th_RBTree_WEEK06) | RBTree 직접 구현 |
+| [Basic Structures](https://github.com/kkc1383/Krafton_Jungle_10th_DataStructure_WEEK05) | 연결 리스트, 스택, 큐, 이진 트리, BST |
 
-#### 🎮 Game & Web
+#### Web
 | Project | Description |
 |---------|-------------|
-| [Unity WebGL Project](https://github.com/kkc1383/Krafton_Jungle_10th_Webprogramming_WEEK01_Team09) | Unity 프로젝트를 웹에 임베드 |
+| [Web Game_WebSite Project](https://github.com/kkc1383/Krafton_Jungle_10th_WebPage_WEEK14) | Unity 프로젝트를 웹에 임베드 |
 | [Sleep Tracker](https://github.com/kkc1383/Krafton_Jungle_10th_Mini_Project_WEEK00) | Flask 기반 수면 기록 앱 (SSR, JWT 인증) |
 
 ---
