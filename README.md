@@ -96,3 +96,4 @@
 ### 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kangkc09@gmail.com)
+[![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/kkc1383)
