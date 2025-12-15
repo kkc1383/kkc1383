@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm @kkc1383
 
-🎨 **Technical Artist(TA)** 를 꿈꾸며 게임 개발의 모든 분야에 관심이 많은 개발자입니다.
+🎮 **Game Programmer**를 꿈꾸며 게임 개발과 관련된 모든 것에 관심이 많은 개발자입니다.
 
 🌱 **KRAFTON Jungle 10기** 수료 - 알고리즘, 시스템 프로그래밍, 백엔드 개발 중심의 실전형 소프트웨어 엔지니어링 부트캠프
 
@@ -70,26 +70,20 @@
 
 ### 📚 Currently Learning
 
-#### 🎨 Graphics & Technical Art
-- **Game Mathematics** - 선형대수, 3D 변환, 쿼터니언, 벡터 연산
-- **Computer Graphics** - 렌더링 파이프라인, 래스터화, 조명 모델
-- **Rendering Pipeline** - Forward/Deferred Rendering, PBR, Post-Processing
-- **Shader Programming** - HLSL/GLSL, Vertex/Fragment Shader, 커스텀 셰이더 제작
-- **Real-time Rendering Optimization** - Draw Call 최적화, LOD, Culling 기법
+#### 🤖 AI & LLM
+- **LLM (Large Language Model)** - 대규모 언어 모델의 원리와 활용
+- **RAG (Retrieval-Augmented Generation)** - 벡터 DB 기반 검색 증강 생성 파이프라인 구축
+- **Fine-Tuning** - LoRA/QLoRA를 활용한 도메인 특화 모델 학습
+- **AI Agent** - LLM 기반 자율 에이전트 설계 및 도구 활용 패턴
 
+#### 🎨 Graphics & Engine
+- **Computer Graphics** - 렌더링 파이프라인, 셰이더 프로그래밍, 3D 수학
+- **Unity & Unreal Engine** - 게임 엔진 심화 학습 및 최적화 기법
 
-#### 🤖 AI for Game Content Creation
-- **Diffusion Models** - Stable Diffusion, ControlNet을 활용한 게임 에셋 생성
-- **Generative AI** - AI 기반 2D/3D 콘텐츠 생성 파이프라인
-- **3D Asset Generation** - Text-to-3D, Image-to-3D 모델링 자동화
-- **Deep Learning Fundamentals** - CNN, GAN, Transformer 아키텍처 이해
-- **AI Pipeline Integration** - 게임 개발 워크플로우에 AI 도구 통합
-
-
-#### 🎮 Game Engine & Tools
-- **Unity & Unreal Engine** - 엔진 내부 구조 이해 및 커스터마이징
-- **Tool Development** - 아티스트를 위한 에디터 확장 및 자동화 도구 개발
-- **Pipeline Optimization** - 아트 에셋 임포트/익스포트 자동화
+#### 🖥️ Game Server & Network
+- **Game Server (C++)** - 고성능 게임 서버 아키텍처 설계 및 구현
+- **Socket Programming** - TCP/UDP 기반 네트워크 통신, 비동기 I/O
+- **Multithread Programming** - 동시성 제어, Lock-free 자료구조, 스레드 풀 설계
 
 ---
 
